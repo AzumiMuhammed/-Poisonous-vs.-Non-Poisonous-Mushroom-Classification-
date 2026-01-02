@@ -94,5 +94,7 @@ Model selection principles
 Exact performance metrics can be found in the Notebook
 
 
+## Author:
 Azumi Muhammed
+
 Data Scientist | Applied AI & LLM Engineer
