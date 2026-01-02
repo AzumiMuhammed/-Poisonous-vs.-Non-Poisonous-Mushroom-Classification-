@@ -1,14 +1,14 @@
-🍄 Poisonous vs. Non-Poisonous Mushroom Classification
+# 🍄 Poisonous vs. Non-Poisonous Mushroom Classification
 
 Supervised Machine Learning Project
 
-Project Overview
+## Project Overview
 
 This project applies supervised machine learning techniques to classify mushrooms as poisonous or non-poisonous based on their physical characteristics. The goal is to build, evaluate, and compare multiple classification models to determine which approach provides the most accurate and reliable predictions.
 
 Accurate mushroom classification is a real-world safety problem—misclassification can have severe consequences—making this an ideal use case for demonstrating classification modeling, evaluation metrics, and model selection.
 
-Objectives
+## Objectives
 
 Clean and prepare structured tabular data for machine learning
 Train multiple supervised classification models
@@ -16,17 +16,18 @@ Evaluate model performance using industry-standard metrics
 Compare models to identify the best performer
 Demonstrate an end-to-end ML workflow suitable for production pipelines
 
-📊 Dataset
+## Dataset
 
 Type: Structured tabular data
 Features: Mushroom attributes (e.g., physical and categorical characteristics)
 
-Target Variable:
+## Target Variable:
 poisonous (binary classification)
 
-Source: Public dataset (loaded from external CSV files)
+## Source:
+Public dataset (loaded from external CSV files)
 
-Machine Learning Workflow
+## Machine Learning Workflow
 
 Data Loading & Exploration
 Dataset ingestion and inspection
@@ -38,7 +39,7 @@ Model Training
 Multiple supervised learning algorithms applied
 Consistent training methodology across models
 
-Model Evaluation
+## Model Evaluation
 
 Confusion Matrix
 ROC Curve & AUC
@@ -47,7 +48,7 @@ Model Comparison
 Performance comparison across models
 Identification of the best-performing classifier
 
-Technologies & Tools
+## Technologies & Tools
 
 Python
 Pandas & NumPy – Data manipulation
@@ -55,7 +56,7 @@ Scikit-Learn – Machine learning models & evaluation
 Matplotlib / Seaborn – Visualization
 Notebook – Experimentation & analysis
 
-📈 Key Results
+## Key Results
 
 Successfully trained and evaluated multiple classification models
 Achieved strong predictive performance on unseen test data
@@ -64,8 +65,8 @@ Bias vs. variance trade-offs
 Classification evaluation techniques
 Model selection principles
 
-(Exact performance metrics can be found in the notebook output cells.)
+Exact performance metrics can be found in the Notebook
 
 
 Azumi Muhammed
-Email: azumimuhammed2025@gmail.com 
+Data Scientist | Applied AI & LLM Engineer
